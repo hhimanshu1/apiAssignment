@@ -3,7 +3,7 @@
     {
       "id": 2,
       "name": "Kishlay Kumar",
-      "username": "krish",
+      "username": "krishraj",
       "email": "kishlay2405@gmail.com",
       "address": {
         "street": "Harnaut",
@@ -15,7 +15,7 @@
         }
       },
       "phone": "9856785434",
-      "website": "krish.comm",
+      "website": "krish.in",
       "company": {
         "name": "Deckow-Crist",
         "catchPhrase": "Proactive didactic contingency",
@@ -185,14 +185,6 @@
       "phone": "9534078770",
       "website": "hhimanshu.com",
       "id": 10
-    },
-    {
-      "name": "Navjot Singh",
-      "username": "nsingh",
-      "email": "navjot108@gmail.com",
-      "phone": "8953457856",
-      "website": "navot.in",
-      "id": 11
     }
   ]
 }
