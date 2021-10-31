@@ -54,10 +54,22 @@ const Home = () => {
                 <Button id="btnmain1" className="mx-2" outline color="primary">
                   <Link to={`/users/${user.id}`}>View</Link>
                 </Button>
-                <Button id="btnmain2" class="btnmain2" className="mx-2" outline color="warning">
+                <Button
+                  id="btnmain2"
+                  class="btnmain2"
+                  className="mx-2"
+                  outline
+                  color="warning"
+                >
                   <Link to={`/users/edit/${user.id}`}>Edit</Link>
                 </Button>
-                <Button id="btnmain3" class="btnmain3" className="mx-2" outline color="danger">
+                <Button
+                  id="btnmain3"
+                  class="btnmain3"
+                  className="mx-2"
+                  outline
+                  color="danger"
+                >
                   <Link to="/" onClick={() => deleteUser(user.id)}>
                     Delete
                   </Link>
@@ -67,9 +79,11 @@ const Home = () => {
           ))}
         </tbody>
       </Table>
-      <Button class="btn2" id="btn3" className="addUser" >
+      <Button class="btn2" id="btn3" className="addUser">
         <Link to="/users/add">
-          <span id="btn31"><GrAdd /> Add User </span>
+          <span id="btn31">
+            <GrAdd /> Add User{" "}
+          </span>
         </Link>
       </Button>
     </>

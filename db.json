@@ -1,28 +1,6 @@
 {
   "users": [
     {
-      "id": 2,
-      "name": "Kishlay Kumar",
-      "username": "krishraj",
-      "email": "kishlay2405@gmail.com",
-      "address": {
-        "street": "Harnaut",
-        "city": "Patna",
-        "zipcode": "543001",
-        "geo": {
-          "lat": "-43.9509",
-          "lng": "-34.4618"
-        }
-      },
-      "phone": "9856785434",
-      "website": "krish.in",
-      "company": {
-        "name": "Deckow-Crist",
-        "catchPhrase": "Proactive didactic contingency",
-        "bs": "synergize scalable supply-chains"
-      }
-    },
-    {
       "id": 3,
       "name": "Dawinder Singh",
       "username": "dawinderS",
@@ -30,19 +8,10 @@
       "address": {
         "street": "Mohali",
         "city": "Ludhiana",
-        "zipcode": "877645",
-        "geo": {
-          "lat": "-68.6102",
-          "lng": "-47.0653"
-        }
+        "zipcode": "877645"
       },
       "phone": "4390679845",
-      "website": "dawind.info",
-      "company": {
-        "name": "Romaguera-Jacobson",
-        "catchPhrase": "Face to face bifurcated interface",
-        "bs": "e-enable strategic applications"
-      }
+      "website": "dawind.info"
     },
     {
       "id": 4,
@@ -52,19 +21,10 @@
       "address": {
         "street": "Chandini Chowk",
         "city": "Delhi",
-        "zipcode": "100234",
-        "geo": {
-          "lat": "29.4572",
-          "lng": "-164.2990"
-        }
+        "zipcode": "100234"
       },
       "phone": "9645090322",
-      "website": "nishu.biz",
-      "company": {
-        "name": "Robel-Corkery",
-        "catchPhrase": "Multi-tiered zero tolerance productivity",
-        "bs": "transition cutting-edge web services"
-      }
+      "website": "nishu.biz"
     },
     {
       "id": 5,
@@ -74,19 +34,10 @@
       "address": {
         "street": "Swami Nagar",
         "city": "Gaya",
-        "zipcode": "332632",
-        "geo": {
-          "lat": "-31.8129",
-          "lng": "62.5342"
-        }
+        "zipcode": "332632"
       },
       "phone": "9045239856",
-      "website": "abksinha.info",
-      "company": {
-        "name": "Keebler LLC",
-        "catchPhrase": "User-centric fault-tolerant solution",
-        "bs": "revolutionize end-to-end systems"
-      }
+      "website": "abksinha.info"
     },
     {
       "id": 6,
@@ -96,19 +47,10 @@
       "address": {
         "street": "D-Nagar",
         "city": "Patiala",
-        "zipcode": "141006",
-        "geo": {
-          "lat": "-71.4197",
-          "lng": "71.7478"
-        }
+        "zipcode": "141006"
       },
       "phone": "9834895489",
-      "website": "himola.org",
-      "company": {
-        "name": "Considine-Lockman",
-        "catchPhrase": "Synchronised bottom-line interface",
-        "bs": "e-enable innovative applications"
-      }
+      "website": "himola.org"
     },
     {
       "id": 7,
@@ -118,19 +60,10 @@
       "address": {
         "street": "JassNagar",
         "city": "Mandi",
-        "zipcode": "232329",
-        "geo": {
-          "lat": "24.8918",
-          "lng": "21.8984"
-        }
+        "zipcode": "232329"
       },
       "phone": "2309439043",
-      "website": "elvis.io",
-      "company": {
-        "name": "Johns Group",
-        "catchPhrase": "Configurable multimedia task-force",
-        "bs": "generate enterprise e-tailers"
-      }
+      "website": "elvis.io"
     },
     {
       "id": 8,
@@ -141,19 +74,10 @@
         "street": "Ellsworth Summit",
         "suite": "Suite 729",
         "city": "Aliyaview",
-        "zipcode": "45169",
-        "geo": {
-          "lat": "-14.3990",
-          "lng": "-120.7677"
-        }
+        "zipcode": "45169"
       },
       "phone": "5864560956",
-      "website": "jacynthe.com",
-      "company": {
-        "name": "Abernathy Group",
-        "catchPhrase": "Implemented secondary concept",
-        "bs": "e-enable extensible e-tailers"
-      }
+      "website": "jacynthe.com"
     },
     {
       "id": 9,
@@ -164,19 +88,10 @@
         "street": "Dayna Park",
         "suite": "Suite 449",
         "city": "Bartholomebury",
-        "zipcode": "76495-3109",
-        "geo": {
-          "lat": "24.6463",
-          "lng": "-168.8889"
-        }
+        "zipcode": "76495-3109"
       },
       "phone": "2954654598",
-      "website": "conrad.com",
-      "company": {
-        "name": "Yost and Sons",
-        "catchPhrase": "Switchable contextually-based project",
-        "bs": "aggregate real-time technologies"
-      }
+      "website": "conrad.com"
     },
     {
       "name": "Himanshu Hemant",
@@ -185,6 +100,23 @@
       "phone": "9534078770",
       "website": "hhimanshu.com",
       "id": 10
+    },
+    {
+      "name": "Hemant Himanshu",
+      "username": "1915034",
+      "email": "hhimanshu9801@gmail.com",
+      "phone": "8953457856",
+      "website": "dfddfdfdfdfd",
+      "address": "dfdfdd",
+      "id": 11
+    },
+    {
+      "name": "Himanshu hemant",
+      "username": "hhimnahsu123",
+      "email": "hhimanshu9801@gmail.com",
+      "phone": "9534078770",
+      "website": "chauraha.com",
+      "id": 12
     }
   ]
 }

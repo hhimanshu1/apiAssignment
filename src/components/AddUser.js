@@ -13,6 +13,7 @@ const AddUser = () => {
     website: "",
   });
   const { name, username, email, phone, website } = user;
+
   const onInputChange = (e) => {
     setUser({ ...user, [e.target.name]: e.target.value });
   };
